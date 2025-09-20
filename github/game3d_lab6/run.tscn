@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0gq1ueyxbpsh"]
+
+[ext_resource type="PackedScene" uid="uid://r0tbl3ererf2" path="res://asset/Fast Run.fbx" id="1_ifad6"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Fast Run" parent="." instance=ExtResource("1_ifad6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.912187, 0, -1.09084)
