@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://b28dkub50suiv"
-path="res://.godot/imported/Sword And Shield Death.fbx-ed80b181a73e46bea2adbd7bbdc4e1fe.scn"
+uid="uid://dy4w3wcw4rx0o"
+path="res://.godot/imported/Standing React Death Backward.fbx-36dfa640f8f7ca0b12a005aa89c63ae0.scn"
 
 [deps]
 
-source_file="res://asset/Sword And Shield Death.fbx"
-dest_files=["res://.godot/imported/Sword And Shield Death.fbx-ed80b181a73e46bea2adbd7bbdc4e1fe.scn"]
+source_file="res://asset/Standing React Death Backward.fbx"
+dest_files=["res://.godot/imported/Standing React Death Backward.fbx-36dfa640f8f7ca0b12a005aa89c63ae0.scn"]
 
 [params]
 
